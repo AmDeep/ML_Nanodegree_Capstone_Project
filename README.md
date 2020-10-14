@@ -8,7 +8,8 @@ Due to the lower accuracies obtained from both conventional and ensemble regress
 ## Controller Tests
 Some controller tests were conducted for build MPC controllers but require proprietary software for true exection. Current research and studies are being conducted in the space and the results will be updated when possible.
 ## Conclusions and Article
-The results and sumamrized snippets of the entire project have been linked to a Medium article accessible here. 
+The results and sumamrized snippets of the entire project have been linked to a Medium article accessible here.
+https://medium.com/@f20140267d/devising-a-predictive-maintenance-model-for-the-study-of-turbofan-engines-a-dive-into-machine-9b7abdc9c21b?source=friends_link&sk=387a67b983e8f75150ded8fd7f39c0d4
 ## References and code snippets used.
 1. Pyimagesearch.
 2. Kaggle.
